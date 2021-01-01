@@ -2,7 +2,7 @@ title: IDEOnet
 baseURL: /
 params:
   base_font: nunito-sans
-  palette: blue
+  palette: purple
   header:
     logo_img: images/logo.svg
     logo_img_alt: Logo
